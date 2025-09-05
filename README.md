@@ -12,7 +12,10 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg)](https://android.com)
 
-</div>
+**由[云锦微](https://www.viitrix.com)提供技术支持**
+
+<img src="https://www.viitrix.com/images/common/VIITRIX_Logo_CN.png" alt="云锦微Logo" width="150"/>
+
 
 ## 📖 项目简介
 
