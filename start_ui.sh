@@ -9,4 +9,4 @@ export STREAMLIT_SERVER_PORT=8501
 export STREAMLIT_SERVER_ADDRESS=0.0.0.0
 export STREAMLIT_SERVER_HEADLESS=true
 
-streamlit run streamlit_config.py --server.port 8501 --server.address 0.0.0.0
+streamlit run main_ui.py --server.port 8501 --server.address 0.0.0.0
