@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# env
+.env
+
+# database files
+*.db
+
+# claude code
+CLAUDE.md
+
+# 配置文件
+config.json
