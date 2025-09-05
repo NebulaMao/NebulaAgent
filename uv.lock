@@ -773,6 +773,32 @@ wheels = [
 ]
 
 [[package]]
+name = "nebulaagent"
+version = "0.1.0"
+source = { virtual = "." }
+dependencies = [
+    { name = "dotenv" },
+    { name = "fastmcp" },
+    { name = "numpy", version = "2.2.6", source = { registry = "http://mirrors.aliyun.com/pypi/simple/" }, marker = "python_full_version < '3.11'" },
+    { name = "numpy", version = "2.3.2", source = { registry = "http://mirrors.aliyun.com/pypi/simple/" }, marker = "python_full_version >= '3.11'" },
+    { name = "openai" },
+    { name = "pandas" },
+    { name = "requests" },
+    { name = "streamlit" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "dotenv", specifier = ">=0.9.9" },
+    { name = "fastmcp", specifier = ">=2.10.6" },
+    { name = "numpy", specifier = ">=1.24.0" },
+    { name = "openai", specifier = ">=1.97.1" },
+    { name = "pandas", specifier = ">=2.0.0" },
+    { name = "requests", specifier = ">=2.32.4" },
+    { name = "streamlit", specifier = ">=1.40.0" },
+]
+
+[[package]]
 name = "numpy"
 version = "2.2.6"
 source = { registry = "http://mirrors.aliyun.com/pypi/simple/" }
@@ -1076,32 +1102,6 @@ source = { registry = "http://mirrors.aliyun.com/pypi/simple/" }
 sdist = { url = "http://mirrors.aliyun.com/pypi/packages/67/93/8f2c2075b180c12c1e9f6a09d1a985bc2036906b13dff1d8917e395f2048/pathable-0.4.4.tar.gz", hash = "sha256:6905a3cd17804edfac7875b5f6c9142a218c7caef78693c2dbbbfbac186d88b2" }
 wheels = [
     { url = "http://mirrors.aliyun.com/pypi/packages/7d/eb/b6260b31b1a96386c0a880edebe26f89669098acea8e0318bff6adb378fd/pathable-0.4.4-py3-none-any.whl", hash = "sha256:5ae9e94793b6ef5a4cbe0a7ce9dbbefc1eec38df253763fd0aeeacf2762dbbc2" },
-]
-
-[[package]]
-name = "phoneagent"
-version = "0.1.0"
-source = { virtual = "." }
-dependencies = [
-    { name = "dotenv" },
-    { name = "fastmcp" },
-    { name = "numpy", version = "2.2.6", source = { registry = "http://mirrors.aliyun.com/pypi/simple/" }, marker = "python_full_version < '3.11'" },
-    { name = "numpy", version = "2.3.2", source = { registry = "http://mirrors.aliyun.com/pypi/simple/" }, marker = "python_full_version >= '3.11'" },
-    { name = "openai" },
-    { name = "pandas" },
-    { name = "requests" },
-    { name = "streamlit" },
-]
-
-[package.metadata]
-requires-dist = [
-    { name = "dotenv", specifier = ">=0.9.9" },
-    { name = "fastmcp", specifier = ">=2.10.6" },
-    { name = "numpy", specifier = ">=1.24.0" },
-    { name = "openai", specifier = ">=1.97.1" },
-    { name = "pandas", specifier = ">=2.0.0" },
-    { name = "requests", specifier = ">=2.32.4" },
-    { name = "streamlit", specifier = ">=1.40.0" },
 ]
 
 [[package]]

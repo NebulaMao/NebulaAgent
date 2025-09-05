@@ -15,6 +15,10 @@
 **由[云锦微](https://www.viitrix.com)提供技术支持**
 
 <img src="https://www.viitrix.com/images/common/VIITRIX_Logo_CN.png" alt="云锦微Logo" width="150"/>
+
+### 🎬 演示视频
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115150573084440&bvid=BV1T2abz4EjT&cid=32175686380&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
 ## 📖 项目简介
