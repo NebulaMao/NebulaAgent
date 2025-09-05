@@ -1,7 +1,7 @@
 [project]
-name = "phoneagent"
+name = "NebulaAgent"
 version = "0.1.0"
-description = "Add your description here"
+description = "A knowledge-based omniscient Android agent"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
