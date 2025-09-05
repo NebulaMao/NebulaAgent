@@ -18,8 +18,7 @@
 
 ### 🎬 演示视频
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115150573084440&bvid=BV1T2abz4EjT&cid=32175686380&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+[Bilibili](https://www.bilibili.com/video/BV1T2abz4EjT/)
 
 ## 📖 项目简介
 
