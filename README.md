@@ -19,7 +19,7 @@
 ### 🎬 演示视频
 
 [Bilibili](https://www.bilibili.com/video/BV1T2abz4EjT/)
-
+</div>
 ## 📖 项目简介
 
 NebulaAgent 是一个革命性的AI驱动的Android设备自动化解决方案。它将先进的自然语言处理技术与设备控制相结合，让用户能够通过简单的中文或英文指令来控制Android设备执行复杂的操作任务。
